@@ -83,8 +83,9 @@
   <h3>기획</h3>
   <p>
    
-   <b>・  [Figma | 생성 AI 기반 간편 교육 지원 플랫폼 GenEDU - MVP, IR 자료 (23.09.05 ver)](https://github.com/pfcvma/gen_edu)</b><br>
-   <b>・  [Figma | 2023 Elice AI Edu Hackathon 본선 진출작: 생성 AI 기반 실전 영어 회화 솔루션 RealTalk - MVP, IR](https://github.com/pfcvma/AI-Edu-Hackathon)</b><br>
+   <b>・  [Figma | 생성 AI 기반 간편 교육 지원 플랫폼 GenEDU - MVP, IR 자료 (23.09.05 ver)](https://github.com/pfcvma/gen_edu) (2023) </b><br>
+   <b>・  [Figma | 2023 Elice AI Edu Hackathon 본선 진출작: 생성 AI 기반 실전 영어 회화 솔루션 RealTalk - MVP, IR](https://github.com/pfcvma/AI-Edu-Hackathon) (2023) </b><br>
+   <b>・  [Software Engineering | Sogang University - Convergence Software Capstone Design: 네이버페이 서비스 재구축](https://drive.google.com/file/d/18r9a-PrO28SWlVMyKOWWQtg3py2R8zuQ/view?usp=sharing) (2023) </b><br>
    
   </p>
 </div>
