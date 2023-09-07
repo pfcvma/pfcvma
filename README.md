@@ -8,11 +8,18 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>&nbsp 
+
+
+
 </p>
  
 </div>
@@ -48,7 +55,6 @@
  <b>・  서강대학교 컴퓨터공학과 웹 개발 학회 CNU (2023.07 ~) </b><br>
  <b>・  서강대학교 중앙 컴퓨터 동아리 SGCC (2022) </b><br>
  <b>・  서강대학교 기초인공지능프로그래밍 멘토조교 대표 (2023) </b><br>
- <b>・  서강대학교 공학부 뉴스레터 기자 (2023) </b><br>
  <b>・  서강대학교 총동문회 장학생 3회, 서강대학교 경제학부 장학생 1회, 지자체 장학생 1회 </b><br>
  <b>・  Elice AI Edu Hackathon 본선 진출 (2023.08) </b><br>
  <b>・  2023 코드클럽 찾아가는 SW교육기부단 (2023) </b><br>
