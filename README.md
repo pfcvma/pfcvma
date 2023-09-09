@@ -73,9 +73,10 @@
  <p>
 
  <b>・  [HTML, CSS, JavaScript | 서강대학교 금융학회 SWIC 공식 홈페이지](https://github.com/pfcvma/sogang-swic) (2022 ~) </b><br>
- <b>・  [Python | 한국보험신문 주최 보험산업 발전을 위한 2021 대학생 아이디어 공모전 - 한국보험신문사장상 수상작 : 딥러닝을 활용한 ‘농민의 웃음을 되찾다 : 풍년보험 상품제안’](https://github.com/pfcvma/Insurance_Prediction) (2021) </b><br>
- <b>・  [Python | 21-1 SWIC Report(Team C, 1st Prize): Portfolio Optimization Tool](https://github.com/pfcvma/PythonStockTool) (2021) </b><br>
- <b>・  [Python | Sogang University - Financial Big Data Analysis - Team Project](https://github.com/pfcvma/esg_return_correlation) (2021) </b><br>
+ <b>・  [Python, Deep Learning | 한국보험신문 주최 보험산업 발전을 위한 2021 대학생 아이디어 공모전 - 한국보험신문사장상 수상작 : 딥러닝을 활용한 ‘농민의 웃음을 되찾다 : 풍년보험 상품제안’](https://github.com/pfcvma/Insurance_Prediction) (2021) </b><br>
+ <b>・  [Python | 21-1 SWIC Report(Team C, 1st Prize): ESG Active Fund](https://github.com/pfcvma/PythonStockTool) (2021) </b><br>
+ <b>・  [Python, Machine Learning | Sogang University - AI Finance (Capstone Design): ESG 우수기업 포트폴리오 구성 및 시장 수익률과의 비교를 통한 초과수익여부 검증](https://github.com/pfcvma/AI-Finance) (2023) </b><br>
+ <b>・  [Python, Machine Learning | Sogang University - Financial Big Data Analysis: ESG - Return Correlation (Team Project)](https://github.com/pfcvma/esg_return_correlation) (2021) </b><br>
   <b>・  [React | 포트폴리오 공유 웹서비스](https://github.com/pfcvma/portfolio) (2022) </b><br>
   <b>・  [Flutter, Django | 1st Toy Project (App) - Quiz App (Full Stack)](https://github.com/pfcvma/quiz_app_test) (2022) </b><br>
 
