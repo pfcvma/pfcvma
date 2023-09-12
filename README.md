@@ -69,7 +69,7 @@
 <br>
 <div>
   <h2>Projects</h2>
-  <h3>개발</h3>
+  <h3>Programming・Data Science・AI</h3>
  <p>
 
  <b>・  [HTML, CSS, JavaScript | 서강대학교 금융학회 SWIC 공식 홈페이지](https://github.com/pfcvma/sogang-swic) (2022 ~) </b><br>
@@ -81,7 +81,7 @@
   <b>・  [Flutter, Django | 1st Toy Project (App) - Quiz App (Full Stack)](https://github.com/pfcvma/quiz_app_test) (2022) </b><br>
 
  <p>
-  <h3>기획</h3>
+  <h3>Product Management</h3>
   <p>
    
    <b>・  [Figma | 생성 AI 기반 간편 교육 지원 플랫폼 GenEDU - MVP, IR 자료 (23.09.05 ver)](https://github.com/pfcvma/gen_edu) (2023) </b><br>
