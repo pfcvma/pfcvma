@@ -61,6 +61,7 @@
  <b>・  서강대학교 중앙 컴퓨터 동아리 SGCC (2022) </b><br>
  <b>・  서강대학교 기초인공지능프로그래밍 멘토조교 대표 (2023) </b><br>
  <b>・  2023 코드클럽 찾아가는 SW교육기부단 (2023) </b><br>
+ <b>・  서강대학교 총동문회 장학생 3회, 서강대학교 경제학부 장학생 1회, 지자체 장학생 1회 </b><br>
  <b>・  대한민국 정책기자단 (2023 ~) </b><br>
 
  <p>
@@ -71,13 +72,13 @@
   <h3>Programming・Data Science・AI</h3>
  <p>
 
- <b>・  [HTML, CSS, JavaScript | 서강대학교 금융학회 SWIC 공식 홈페이지](https://github.com/pfcvma/sogang-swic) (2022 ~) </b><br>
- <b>・  [Python, Machine Learning | Sogang University - AI Finance (Capstone Design): ESG 우수기업 포트폴리오 구성 및 시장 수익률과의 비교를 통한 초과수익여부 검증](https://github.com/pfcvma/AI-Finance) (2023) </b><br>
+  <b>・  [HTML, CSS, JavaScript | 서강대학교 금융학회 SWIC 공식 홈페이지](https://github.com/pfcvma/sogang-swic) (2022 ~) </b><br>
+  <b>・  [Python, Machine Learning | Sogang University - AI Finance (Capstone Design): ESG 우수기업 포트폴리오 구성 및 시장 수익률과의 비교를 통한 초과수익여부 검증](https://github.com/pfcvma/AI-Finance) (2023) </b><br>
   <b>・  [React | 포트폴리오 공유 웹서비스](https://github.com/pfcvma/portfolio) (2022) </b><br>
   <b>・  [Python, Machine Learning | Sogang University - Financial Big Data Analysis: ESG - Return Correlation (Team Project)](https://github.com/pfcvma/esg_return_correlation) (2021) </b><br>
   <b>・  [Flutter | 1st Toy Project (App) - Quiz App (Full Stack)](https://github.com/pfcvma/quiz_app_test) (2022) </b><br>
 
- <p>
+  <p>
   <h3>Product Management</h3>
   <p>
    
