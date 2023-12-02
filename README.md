@@ -76,10 +76,6 @@
   <b>・  [Python, Machine Learning | Sogang University - AI Finance (Capstone Design): ESG 우수기업 포트폴리오 구성 및 시장 수익률과의 비교를 통한 초과수익여부 검증](https://github.com/pfcvma/AI-Finance) (2023) </b><br>
   <b>・  [React | 포트폴리오 공유 웹서비스](https://github.com/pfcvma/portfolio) (2022) </b><br>
   <b>・  [Python, Machine Learning | Sogang University - Financial Big Data Analysis: ESG - Return Correlation (Team Project)](https://github.com/pfcvma/esg_return_correlation) (2021) </b><br>
-
-#  <p>
-#  <h3>Product Management</h3>
-#  <p>
    
    <b>・  [Figma | 42 SEOUL 창업 부트캠프 본선 진출작: 생성형 AI 기반 교육 지원 플랫폼 GenEDU - MVP, IR (공개용, 23.09.05 ver)](https://github.com/pfcvma/gen_edu) (2023) </b><br>
    <b>・  [Figma | 2023 Elice AI Edu Hackathon 본선 진출작: 생성형 AI 기반 실전 영어 회화 솔루션 RealTalk - MVP, IR](https://github.com/pfcvma/AI-Edu-Hackathon) (2023) </b><br>
