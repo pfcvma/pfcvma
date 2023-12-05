@@ -50,7 +50,7 @@
 </div>
 <br>
 <div>
-  <h2>Extracurricular</h2>
+  <h2>Extracurriculars</h2>
  <p>
    
  <b>・  서강대학교 금융학회 SWIC (2020 ~) : 28기 공동회장, 홈페이지([Link](http://sgswic.com/)) 개발 및 운영, 투자대회 전국 3위 금융동아리, Equity Research, Portfolio Optimization, Venture Capital 등 </b><br>
