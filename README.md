@@ -28,14 +28,15 @@
 <div align="center">
  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pfcvma)](https://solved.ac/pfcvma/)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pfcvma)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pfcvma)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </div>
 <br>
 <div>
   <h2>Career</h2>
  <p>
- <b>・  서강대학교 경제학 / 융합소프트웨어 (2018.03 ~ )</b><br>
+ <b>・  NH투자증권 IT (2023.12 ~ )</b><br>
+ <b>・  서강대학교 경제학 / 융합소프트웨어 (2018.02 ~ 2024.02)</b><br>
  <b>・  생성형 AI 기반 예비창업팀 GenEDU Co-Founder (2023.05 ~ )</b><br>
    
 > IBK창공 서울대캠프 3기 | 서울대학교 창업공간 입주기업 선정 | SNU 해동 주니어 스타트업 선정 | 서울대학교 창업동아리 선정 | 2023 SC제일은행 Women in Entrepreneurship 선정 | 42 SEOUL 창업 부트캠프 선정 | 네이버 D2SF 기술창업 공모전 최종 인터뷰
