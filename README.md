@@ -73,7 +73,7 @@
 
  <p>
 
-   <b>・  [HTML, CSS, JavaScript | 서강대학교 금융학회 SWIC 공식 홈페이지](https://github.com/pfcvma/sogang-swic) (2022 ~) </b><br>
+   <b>・  [Html, CSS, JavaScript | 서강대학교 금융학회 SWIC 공식 홈페이지](https://github.com/pfcvma/sogang-swic) (2022 ~) </b><br>
    <b>・  [Product Management, Figma | 42 SEOUL 창업 부트캠프 본선 진출작: 생성형 AI 기반 교육 지원 플랫폼 GenEDU - MVP, IR (공개용, 23.09.05 ver)](https://github.com/pfcvma/gen_edu) (2023) </b><br>
    <b>・  [Product Management, Figma | 2023 Elice AI Edu Hackathon 본선 진출작: 생성형 AI 기반 실전 영어 회화 솔루션 RealTalk - MVP, IR](https://github.com/pfcvma/AI-Edu-Hackathon) (2023) </b><br>
    <b>・  [Python, Deep Learning | 한국보험신문 주최 보험산업 발전을 위한 2021 대학생 아이디어 공모전 - 한국보험신문사장상 수상작 : 딥러닝을 활용한 ‘농민의 웃음을 되찾다 : 풍년보험 상품제안’](https://github.com/pfcvma/Insurance_Prediction) (2021) </b><br>
