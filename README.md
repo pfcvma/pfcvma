@@ -36,7 +36,7 @@
 <div>
   <h2>Career</h2>
  <p>
- <b>・  NH투자증권 IT Application Developer (2023.12 ~ )</b><br>
+ <b>・  NH투자증권 IT본부 Application Developer (2023.12 ~ )</b><br>
  <b>・  서강대학교 경제학 / 융합소프트웨어 (2018.02 ~ 2024.02)</b><br>
  <b>・  생성형 AI 기반 예비창업팀 GenEDU Co-Founder (2023.05 ~ )</b><br>
    
@@ -45,7 +45,7 @@
 >
 
  <b>・  42 SEOUL 9기 Cadet (2023.03 ~ 2023.11)</b><br>
- <b>・  IBK기업은행 인턴 (2022) </b><br>
+ <b>・  IBK기업은행 디지털 인턴 (2022) </b><br>
  <b>・  한국은행 통계조사보조원 (2021) </b><br>
  <b>・  메이저리서치 IT・SW 디렉터 (2022 ~) </b><br>
 
